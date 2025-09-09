@@ -1,7 +1,8 @@
 This script is automatically setup and install dongle_chain in order to allow you to use GSM modems .
 
 simply : 
-wget https://raw.githubusercontent.com/cBadr/Issabel/refs/heads/main/dongle_issabel5.sh
+wget https://github.com/abomsalam20/issabel/blob/main/dongle_issabel5.sh
+
 
 
 sh dongle_issabel5.sh
